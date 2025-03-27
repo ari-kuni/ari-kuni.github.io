@@ -1,16 +1,16 @@
 # Nice to Meet You!
 
 # Connect with me!
-[Linkedin](https://www.linkedin.com/in/alisakunimoto/)
-[Email](mailto:alisakunimoto@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/alisakunimoto/)
+- [Email](mailto:alisakunimoto@gmail.com)
 
 # Education
-University of California, San Diego
-B.S. Bioengineering
+- University of California, San Diego
+- B.S. Bioengineering
 
 # Work History
-Systems Integration Intern @ Singular Genomics
-Junior Figure Skating Coach @ San Diego Ice Arena
+- Systems Integration Intern @ Singular Genomics
+- Junior Figure Skating Coach @ San Diego Ice Arena
 
 # Projects
 ## Human Heart Model
@@ -18,5 +18,5 @@ Junior Figure Skating Coach @ San Diego Ice Arena
 [UCSD_BMES_PT_2024-25_HeartSim](https://github.com/d3moore2002/UCSD_BMES_PT_2024-25_HeartSim/tree/main)
 
 # Volunteer Work
-Principle Board Member @ The Biomedical Engineering Society, UC San Diego Branch
-President @ San Diego Figure Skating Club, Junior Board
+- Principle Board Member @ The Biomedical Engineering Society, UC San Diego Branch
+- President @ San Diego Figure Skating Club, Junior Board
