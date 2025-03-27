@@ -1,22 +1,37 @@
-# Resume
+# 💻 Alisa Kunimoto — GitHub Pages Portfolio
 
-# Connect with me!
-- [Linkedin](https://www.linkedin.com/in/alisakunimoto/)
+Welcome to the source code for my personal portfolio website, built using **GitHub Pages** and the **Minima Jekyll theme**.
+
+📍 [Visit the site here](https://ari-kuni.github.io)
+
+---
+
+## 🧠 About This Site
+
+This portfolio highlights my background in bioengineering, coding projects, and design work.  
+It includes pages for:
+
+- 🏠 Homepage (`index.md`)
+- 💁‍♀️ About Me (`about.md`)
+- 🛠️ Projects (`projects.md`)
+- 📑 Resume(`resume.md`)
+
+---
+
+## 🛠️ Tech Stack
+
+- GitHub Pages
+- Jekyll (`minima` theme)
+- Markdown for content writing
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/alisakunimoto/))
 - [Email](mailto:alisakunimoto@gmail.com)
 
-# Education
-- University of California, San Diego
-- B.S. Bioengineering
+---
 
-# Work History
-- Systems Integration Intern @ Singular Genomics
-- Junior Figure Skating Coach @ San Diego Ice Arena
+> ✨ Built with curiosity, code, and creativity. (It was only built with tears)
 
-# Projects
-## Human Heart Model
-*Contributed to the Software and Electrical team is writing code for the flow sensor and servo. Flow sensor was used to monitor the flow of liquid throughout the model. Servo was used to simulate function of heart valves.*  
-[Code Use in Heart Simulation Model](https://github.com/d3moore2002/UCSD_BMES_PT_2024-25_HeartSim/tree/main)
-
-# Volunteer Work
-- Principle Board Member @ The Biomedical Engineering Society, UC San Diego Branch
-- President @ San Diego Figure Skating Club, Junior Board
