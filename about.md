@@ -5,7 +5,7 @@ layout: default
 
 # About Me
 
-## UC San Diego | Bioengineering | Prior Systems Integration Intern | Biomedical Engineering Socoiety | Professional Yapper
+### UC San Diego | Prior Systems Integration Intern | Biomedical Engineering Society
 
 <img align="right" src="docs/assets/IMG_20250104_175820_524.jpg" style="border-radius: 50%; width: 250px; height: 250px;" alt="My Image">
 
