@@ -7,6 +7,8 @@ layout: default
 
 I'm a Bioengineering student at UC San Diego passionate about merging biology, engineering, and code to solve real-world challenges.
 
+<img align="right" src="docs/assets/IMG_20250104_175820_524.jpg" style="border-radius: 50%; width: 250px; height: 250px;" alt="My Image">
+
 🌱 Interests:  
 - Medical Devices & Biotechnology
 - Mechanical Design  
@@ -16,4 +18,4 @@ I'm a Bioengineering student at UC San Diego passionate about merging biology, e
 
 Feel free to reach out — I'm always open to chatting!
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/alisakunimoto/))
+[Connect with me on LinkedIn](https://www.linkedin.com/in/alisakunimoto/)
