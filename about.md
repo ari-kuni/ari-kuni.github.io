@@ -5,6 +5,10 @@ layout: default
 
 # 💁‍♀️ About Me
 
+<p align="left">
+  <img src="docs/assets/IMG_20250104_175820_524.jpg" alt="Alisa Kunimoto" width="200" style="float: right; margin-left: 20px; border-radius: 10px;" />
+</p>
+
 Hey! I'm Alisa Kunimoto — a bioengineering student with a mechanical twist.
 
 I’ve worked on everything from 3D-printed devices to coding simulations, and I’m always exploring how engineering can improve world health. I'm also an experienced figure skating coach and bring that same energy and discipline to my technical work. I also enjoy learning about intellectual propoerty and read patents on my free time!
