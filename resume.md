@@ -1,9 +1,3 @@
-# Resume
-
-# Connect with me!
-- [Linkedin](https://www.linkedin.com/in/alisakunimoto/)
-- [Email](mailto:alisakunimoto@gmail.com)
-
 # Education
 - University of California, San Diego
 - B.S. Bioengineering
