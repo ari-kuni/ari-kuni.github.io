@@ -8,7 +8,3 @@ description:
 theme: jekyll-theme-minimal
 
 # Menu
-
-navigation:
-- {file: "index.html", title: "Home Change", icon: home}
-- {file: "README.md", title:"About me", icon: address-card}
