@@ -2,6 +2,6 @@ title: ari-kuni.github.io
 logo: docs/assets/IMG_20250104_175820_524.jpg
 description: Bioengineering Student @ UC San Diego | Prior Systems Integration Intern 
 #show_downloads: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minima
 
 # Menu
