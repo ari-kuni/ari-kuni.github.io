@@ -1,3 +1,10 @@
+---
+title: Resume
+layout: default
+---
+
+# 📑 Resume
+
 # Education
 - University of California, San Diego
 - B.S. Bioengineering
