@@ -1,5 +1,3 @@
-# Alisa Kunimoto 
-
 # Connect with me!
 - [Linkedin](https://www.linkedin.com/in/alisakunimoto/)
 - [Email](mailto:alisakunimoto@gmail.com)
