@@ -18,4 +18,6 @@ I'm a Bioengineering student at UC San Diego passionate about merging biology, e
 
 Feel free to reach out — I'm always open to chatting!
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/alisakunimoto/)
+# Contact Info
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/alisakunimoto/)
+- [Email](mailto:alisakunimoto@gmail.com)
