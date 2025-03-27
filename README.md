@@ -1,5 +1,5 @@
 # Navigation
-[About Me](second-page)
+[About Me](about-me)
 
 # Connect with me!
 - [Linkedin](https://www.linkedin.com/in/alisakunimoto/)
