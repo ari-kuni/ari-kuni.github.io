@@ -6,7 +6,5 @@ description: Bioengineering Student @ UC San Diego
 theme: minima
 
 header_pages:
-- README.md
-- second-page.md
-- first-page.md
-# Menu
+  - about.md
+  - projects.md
