@@ -1,7 +1,6 @@
-# 💻 Alisa Kunimoto — GitHub Pages Portfolio
+# 💻 Alisa Kunimoto: GitHub Pages Personal Portfolio
 
 Welcome to the source code for my personal portfolio website, built using **GitHub Pages** and the **Minima Jekyll theme**.
-
 📍 [Visit the site here](https://ari-kuni.github.io)
 
 ---
