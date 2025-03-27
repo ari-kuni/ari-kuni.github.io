@@ -9,9 +9,9 @@ Here are a few things I’ve worked on lately!
 
 ---
 
-## 🎲 Random Walk Simulation (MATLAB)
+## 🎲 Random Walk Simulation
 
-Simulated a 2D random walk to visualize diffusion behavior using Monte Carlo methods.  
+Simulated a 2D random walk to visualize diffusion
 🔗 [View on GitHub](https://github.com/YOUR-USERNAME/random-walk-sim)
 
 ---
