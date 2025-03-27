@@ -1,3 +1,6 @@
+# Navigation
+[About Me](second-page)
+
 # Connect with me!
 - [Linkedin](https://www.linkedin.com/in/alisakunimoto/)
 - [Email](mailto:alisakunimoto@gmail.com)
