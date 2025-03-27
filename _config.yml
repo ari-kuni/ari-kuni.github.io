@@ -1,7 +1,12 @@
-title: ari-kuni.github.io
+title: Alisa Kunimoto Portfolio
+description: Welcome to my Site!
 logo: docs/assets/IMG_20250104_175820_524.jpg
 description: Bioengineering Student @ UC San Diego
 #show_downloads: true
 theme: minima
 
+header_pages:
+- README.md
+- second-page.md
+- first-page.md
 # Menu
