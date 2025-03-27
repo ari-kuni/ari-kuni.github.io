@@ -5,25 +5,21 @@ layout: default
 
 # 🛠️ Projects
 
-Here are a few things I’ve worked on lately!
+Here are a few things I’ve been working on lately!
 
 ---
 
-## 🎲 Random Walk Simulation
-
-Simulated a 2D random walk to visualize diffusion
-🔗 [View on GitHub](https://github.com/YOUR-USERNAME/random-walk-sim)
-
----
-
-## 🧠 Brainwave Visualizer (Arduino + Python)
-
-Built a basic brainwave monitor using EEG input and displayed live readings using a Python GUI.  
-🔗 [View on GitHub](https://github.com/YOUR-USERNAME/brainwave-visualizer)
+## ❤️ Heart Simultaion Model
+- Created a prototype of a heart that simulates physiological pressures and flows to emulate the conditions of a human heart.
+- Software and Electrical Team: Contributed to Flow Sensor and Servo groups
+- Simulated a 2D random walk to visualize diffusion
+🔗 [Arudino Code](https://github.com/d3moore2002/UCSD_BMES_PT_2024-25_HeartSim/tree/main)
 
 ---
 
-## 🔬 3D-Printed Microscope Stand
+## 🗺️ Laser Cut Map of U.S. National Parks
+- Utalized CO2 laser cutters and modeled map in Inskape  
+🔗 Coming Soon
 
-Designed and printed a microscope adapter for smartphones to enable field sample observation on the go.  
-🔗 [View on GitHub](https://github.com/YOUR-USERNAME/microscope-adapter)
+---
+
