@@ -1,4 +1,4 @@
-# Nice to Meet You!
+# Alisa Kunimoto 
 
 # Connect with me!
 - [Linkedin](https://www.linkedin.com/in/alisakunimoto/)
