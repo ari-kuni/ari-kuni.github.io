@@ -55,9 +55,10 @@ The descipline I recieved from the sport and the competition at high performance
 
 </div>
 
+
 ## 🪈 Flute 
 
-I've competed in local flute competitions and participated in orchestra & marching band. I recieved State Honors in The California Music Teachers Association Level Advanced Examination for flute. 
+I've competed in local flute competitions and participated in orchestra & marching band. I recieved State Honors in The California Music Teachers Association Level Advanced Examination for flute. While I enjoy playing a bit of classical, I also enjoy playing anime or video game music for fun.
 
 
 ---
@@ -74,9 +75,13 @@ I also organized a summer program for 3rd graders to improve their math skills d
 
 ---
 
+
 🧠 Fun Fact: I chronically struggled to find pictures to put for my personal life, so I'll make it aspiration by saying ✨ I live in the moment ✨
 
+
+
 <hr />
+
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/alisakunimoto/)" target="_blank" style="text-decoration: none;">
