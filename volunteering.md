@@ -16,6 +16,21 @@ We've also hosted workshops such as _Coffee Chats with Graduate Students_ and _C
 
 I've also participated in conducting workshops for K-12 students to teach them the intriguing world and STEM. I love mentoring and teaching young individuals, inspiring them to pursue contributing to new innovations. 
 
+
+<div style="margin-top: 40px;"></div>
+
+<!-- Centered heading text -->
+<p align="center" style="font-size: 18px; font-weight: bold; font-family: sans-serif;">
+  Learn More By Clicking Below!
+</p>
+
+<p align="center">
+  <a href="https://bmesnewstudentcomm.wixsite.com/bmesnsc" target="_blank">
+    <img src="docs/assets/NSC Logo.png" alt="Click to Visit" width="200" style="border-radius: 10px;">
+  </a>
+</p>
+
+
 # San Diego Figure Skating Club, Junior Board
 
 <img align="right" src="docs/assets/IMG_20220312_091124323_HDR.jpg" style="width: 300px; height: 220px;" alt="My Image">
