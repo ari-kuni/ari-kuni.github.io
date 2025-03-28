@@ -25,3 +25,22 @@ I also served as the President of the San Diego Figure Skating Club, Junior Boar
 I also established a system of Committee Members allowing more Club Members to participate in board activities and learn technical skills before joining eBoard positions. I solidified this system by hosting one-on-one meetings with my team to elaborate on responsibilities and training for report writing. 
 
 Additionally, I served as Secretary and Tresurer prior to my position as President. This allowed me to better train up-and-coming board members and support my team in board activities. It also provided me with an interdisciplinary perspective of organizations. 
+
+<hr />
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/alisakunimoto/)" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="30" alt="LinkedIn" style="margin: 0 10px;" />
+  </a>
+
+  <a href="mailto:alisakunimoto@gmail.com" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+         width="30" alt="Email" style="margin: 0 10px;" />
+  </a>
+
+  <a href="[https://github.com/your-username](https://github.com/ari-kuni)" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         width="30" alt="GitHub" style="margin: 0 10px;" />
+  </a>
+</p>
