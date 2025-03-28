@@ -22,3 +22,23 @@ Feel free to reach out — I'm always open to chatting!
 - [LinkedIn](https://www.linkedin.com/in/alisakunimoto/)
 - [Email Me](mailto:alisakunimoto@gmail.com)
 - [Github](https://github.com/ari-kuni)
+
+
+<hr />
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/alisakunimoto/)" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="30" alt="LinkedIn" style="margin: 0 10px;" />
+  </a>
+
+  <a href="mailto:alisakunimoto@gmail.com" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+         width="30" alt="Email" style="margin: 0 10px;" />
+  </a>
+
+  <a href="[https://github.com/your-username](https://github.com/ari-kuni)" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         width="30" alt="GitHub" style="margin: 0 10px;" />
+  </a>
+</p>
