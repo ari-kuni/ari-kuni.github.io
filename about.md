@@ -37,6 +37,7 @@ I also enjoy learning about intellectual property and read patents on my free ti
 - Google Workplace & Microsoft 365 
 - Technical Writing, Public Speaking
 
+
 <hr />
 
 <p align="center">
