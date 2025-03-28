@@ -31,7 +31,7 @@ layout: default
 </p>
 
 <p align="center">
-  <a href="(https://docs.google.com/document/d/1i-XlpN5kBP3-tBWreQZ9x5bZXbyFtDgoyNV8xLHVKbc/edit?tab=t.0)" target="_blank">
+  <a href="[Resume](https://docs.google.com/document/d/1i-XlpN5kBP3-tBWreQZ9x5bZXbyFtDgoyNV8xLHVKbc/edit?tab=t.0)" target="_blank">
     <img src="docs/assets/Screenshot 2025-03-28 at 11.42.14 AM.png" alt="Click to Visit" width="200" style="border-radius: 10px;">
   </a>
 </p>
