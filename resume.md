@@ -22,6 +22,21 @@ layout: default
 - Principle Board Member @ The Biomedical Engineering Society, UC San Diego Branch
 - President @ San Diego Figure Skating Club, Junior Board
 
+
+<div style="margin-top: 40px;"></div>
+
+<!-- Centered heading text -->
+<p align="center" style="font-size: 18px; font-weight: bold; font-family: sans-serif;">
+  Click to View my Resume!
+</p>
+
+<p align="center">
+  <a href="(https://docs.google.com/document/d/1i-XlpN5kBP3-tBWreQZ9x5bZXbyFtDgoyNV8xLHVKbc/edit?tab=t.0)" target="_blank">
+    <img src="docs/assets/Screenshot 2025-03-28 at 11.42.14 AM.png" alt="Click to Visit" width="200" style="border-radius: 10px;">
+  </a>
+</p>
+
+
 <hr />
 
 <p align="center">
