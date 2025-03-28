@@ -33,10 +33,48 @@ I also enjoy learning about intellectual property and read patents on my free ti
 - **Programming:** Python (+Jupytr Notebooks), MATLAB (+Simulink), C++
 - **CAD:** Fusion 360, SolidWorks
 - **Makerspace:** Arduino, 3D Printing, Laser Cutting, Resin Printing, Soldering
-- **Image Analysis** ImageJ
+- **Image Analysis:** ImageJ
 - Google Workplace & Microsoft 365 
 - Technical Writing, Public Speaking
 
+---
+
+# Hobbies
+
+## ⛸️ Ice Skating
+
+I've competed in several national competitions including 21' and 22' Synchronized Skating National Championships and 23' National Showcase. I also qulified to be apart of the 23-24 Team USA at the Junior level. I have certifications from the U.S. Figure Skating Association including Platinum Award for competition and test performance. 
+
+The descipline I recieved from the sport and the competition at high performance levels is a foundation to my life philosphy and provides me with confidence to always grow.
+
+<div style="display: flex; justify-content: center; gap: 40px;">
+
+  <img src="docs/assets/IMG_7862.jpg" alt="Skating 1" width="250" height="400" style="border-radius: 10px;">
+
+  <img src="docs/assets/IMG_7647.jpg" alt="Skating 2" width="300" height="400" style="border-radius: 10px;">
+
+</div>
+
+## 🪈 Flute 
+
+I've competed in local flute competitions and participated in orchestra & marching band. I recieved State Honors in The California Music Teachers Association Level Advanced Examination for flute. 
+
+
+---
+
+# Japan 
+
+## Minato Japanese School
+
+After I moved from Japan to the United States, I continued my Japanese education at Minato Japanese School. There, I learned Japanese literature, mathematics, science, social studies, history, and culture. I attended Minato for 9 years, becoming fluent in Japanese and well-versed in Japanese Culture.
+
+I also organized a summer program for 3rd graders to improve their math skills during COVID-19 when students were struggling to learn their multiplications times tables. As a student who thrived from meeting excellent teachers that allowed me to become curious about STEM, I want to provide opportunities to the next generation like my mentors.
+
+いつでも気軽にご連絡くださいね！ Feel free to reach out to me anytime!
+
+---
+
+🧠 Fun Fact: I chronically struggled to find pictures to put for my personal life, so I'll make it aspiration by saying ✨ I live in the moment ✨
 
 <hr />
 
