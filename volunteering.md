@@ -54,8 +54,9 @@ Additionally, I served as Secretary and Tresurer prior to my position as Preside
          width="30" alt="Email" style="margin: 0 10px;" />
   </a>
 
-  <a href="[https://github.com/your-username](https://github.com/ari-kuni)" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+  <a href="https://github.com/ari-kuni" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
          width="30" alt="GitHub" style="margin: 0 10px;" />
-  </a>
+</a>
+
 </p>
