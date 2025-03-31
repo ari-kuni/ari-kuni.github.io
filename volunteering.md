@@ -44,8 +44,8 @@ Additionally, I served as Secretary and Tresurer prior to my position as Preside
 <hr />
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/alisakunimoto/)" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+  <a href="https://www.linkedin.com/in/alisakunimoto/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="30" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
 
