@@ -3,9 +3,25 @@ title: Volunteering
 layout: default
 ---
 
+<style>
+  .responsive-image {
+    width: 200px;
+    border-radius: 10px;
+  }
+
+  @media (max-width: 600px) {
+    .responsive-image {
+      width: 90%;
+    }
+  }
+</style>
+
 # The Biomedical Engineering Society @ UC San Diego
 
-<img align="right" src="docs/assets/Screenshot 2025-03-27 at 2.20.32 PM.png" style="width: 300px; height: 250px;" alt="My Image">
+<p align="center">
+  <img src="docs/assets/Screenshot 2025-03-27 at 2.20.32 PM.png"
+       alt="My Screenshot"
+       class="responsive-image" />
 
 I'm currently serving as a principle board member for the Biomedical Engineering Society at the UC San Diego branch. I organize weekly committee meetings and I've planned 3 major events with my wonderful team of dedicated and ambitious individuals. We've organized the:
 - Switching into Bioengineering Symposium
@@ -33,7 +49,11 @@ I've also participated in conducting workshops for K-12 students to teach them t
 
 # San Diego Figure Skating Club, Junior Board
 
-<img align="right" src="docs/assets/IMG_20220312_091124323_HDR.jpg" style="width: 300px; height: 220px;" alt="My Image">
+<p align="center">
+  <img src="docs/assets/IMG_20220312_091124323_HDR.jpg"
+       alt="My Screenshot"
+       class="responsive-image" />
+</p>
 
 I also served as the President of the San Diego Figure Skating Club, Junior Board. I conducted bi-monthly meetings organizing Beach Clean-ups, Figure Skating Competition volunteering, Summer Mixers, Fundraising Marathons, and Halloween Bake Sales. 
 
