@@ -48,7 +48,7 @@ layout: default
   <a href="mailto:alisakunimoto@gmail.com" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
          width="30" alt="Email" style="margin: 0 10px;" />
-  </a>
+   </a>
 
   <a href="https://github.com/ari-kuni" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
