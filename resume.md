@@ -31,8 +31,8 @@ layout: default
 </p>
 
 <p align="center">
-  <a href="[Resume](https://docs.google.com/document/d/1i-XlpN5kBP3-tBWreQZ9x5bZXbyFtDgoyNV8xLHVKbc/edit?tab=t.0)" target="_blank">
-    <img src="docs/assets/Screenshot 2025-03-28 at 11.42.14 AM.png" alt="Click to Visit" width="200" style="border-radius: 10px;">
+  <a href="https://docs.google.com/document/d/1i-XlpN5kBP3-tBWreQZ9x5bZXbyFtDgoyNV8xLHVKbc/edit?usp=sharing" target="_blank">
+    <img src="docs/assets/Screenshot 2025-03-28 at 11.42.14 AM.png" alt="Click to Visit" width="200" style="border-radius: 10px;" />
   </a>
 </p>
 
@@ -40,8 +40,8 @@ layout: default
 <hr />
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/alisakunimoto/)" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+  <a href="https://www.linkedin.com/in/alisakunimoto/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="30" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
 
