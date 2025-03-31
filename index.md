@@ -7,7 +7,19 @@ layout: default
 
 I'm a Bioengineering student at UC San Diego passionate about merging biology, engineering, and code to solve real-world challenges.
 
-<img align="right" src="docs/assets/IMG_20250104_175820_524.jpg" style="border-radius: 50%; width: 250px; height: 250px;" alt="My Image">
+<img src="docs/assets/IMG_20250104_175820_524.jpg"
+     alt="Profile photo"
+     class="profile-pic"
+     style="
+       border-radius: 50%;
+       max-width: 150px;
+       width: 100%;
+       height: auto;
+       float: right;
+       margin-left: 1em;
+       margin-bottom: 1em;
+     " />
+
 
 🌱 Interests:  
 - Medical Devices & Biotechnology
