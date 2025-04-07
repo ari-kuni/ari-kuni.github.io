@@ -22,6 +22,15 @@ layout: default
 - Principle Board Member @ The Biomedical Engineering Society, UC San Diego Branch
 - President @ San Diego Figure Skating Club, Junior Board
 
+# Courses
+- [MAE3] Introduction to Mechanical Design
+- [BENG140] Bioengineering Physiology
+- [BENG100] Introduction to Probability & Statstics
+- [MAE8] MATLAB Programming for Engineering Analysis
+- Linear Algebra, Differential Equations, Gen Chem Series, Engineering Physics Series
+
+
+
 
 <div style="margin-top: 40px;"></div>
 
