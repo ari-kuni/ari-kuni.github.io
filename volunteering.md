@@ -24,7 +24,6 @@ layout: default
 
 # The Biomedical Engineering Society @ UC San Diego
 
-<p>
   <img src="docs/assets/Screenshot 2025-03-27 at 2.20.32 PM.png" alt="My Screenshot" class="responsive-image" />
 
 I'm currently serving as a principle board member for the Biomedical Engineering Society at the UC San Diego branch. I organize weekly committee meetings and I've planned 3 major events with my wonderful team of dedicated and ambitious individuals. We've organized the:
@@ -35,7 +34,6 @@ I'm currently serving as a principle board member for the Biomedical Engineering
 We've also hosted workshops such as _Coffee Chats with Graduate Students_ and _Course Selection Workshops with Upperclassman_. 
 
 I've also participated in conducting workshops for K-12 students to teach them the intriguing world and STEM. I love mentoring and teaching young individuals, inspiring them to pursue contributing to new innovations. 
-</p>
 
 
 <div style="margin-top: 40px;"></div>
@@ -54,7 +52,6 @@ I've also participated in conducting workshops for K-12 students to teach them t
 
 # San Diego Figure Skating Club, Junior Board
 
-<p>
 <img src="docs/assets/IMG_20220312_091124323_HDR.jpg" alt="My Screenshot" class="responsive-image" />
 
 I also served as the President of the San Diego Figure Skating Club, Junior Board. I conducted bi-monthly meetings organizing Beach Clean-ups, Figure Skating Competition volunteering, Summer Mixers, Fundraising Marathons, and Halloween Bake Sales. 
@@ -63,15 +60,9 @@ I also established a system of Committee Members allowing more Club Members to p
 
 Additionally, I served as Secretary and Tresurer prior to my position as President. This allowed me to better train up-and-coming board members and support my team in board activities. It also provided me with an interdisciplinary perspective of organizations. 
 
-
-
 # Japanese Community Outreach
 
-
-
 ### くらし応援ネットワーク 
-
-
 
 Guest Speaker at Kurashi Ouen Networking webinar, a Seattle-based nonprofit organization that equips Japanese-American families with knowledge and resources for university applications.
 
@@ -80,6 +71,7 @@ Guest Speaker at Kurashi Ouen Networking webinar, a Seattle-based nonprofit orga
     src="https://docs.google.com/presentation/d/e/2PACX-1vT1YF-yMn5ztYQjcIEnABo0HtpcCd_2MZxTgKy8fixMEVNO20_c8ooYwuWhshdvQFounCoGRh8oC0lY/embed?start=true&loop=true&delayms=6000" 
     frameborder="0" 
     width="950" 
+    height="500"
     allowfullscreen>
   </iframe>
 </div>
