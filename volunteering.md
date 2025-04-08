@@ -63,22 +63,25 @@ I also established a system of Committee Members allowing more Club Members to p
 
 Additionally, I served as Secretary and Tresurer prior to my position as President. This allowed me to better train up-and-coming board members and support my team in board activities. It also provided me with an interdisciplinary perspective of organizations. 
 
+
 # Japanese Community Outreach
 
 ### くらし応援ネットワーク 
 
 Guest Speaker at Kurashi Ouen Networking webinar, a Seattle-based nonprofit organization that equips Japanese-American families with knowledge and resources for university applications.
 
-<h2 align="center">Kurashi Ouen Network Presentation</h2>
-
-<div align="center">
+<div style="display: flex; justify-content: center;">
   <iframe 
     src="https://docs.google.com/presentation/d/e/2PACX-1vT1YF-yMn5ztYQjcIEnABo0HtpcCd_2MZxTgKy8fixMEVNO20_c8ooYwuWhshdvQFounCoGRh8oC0lY/embed?start=true&loop=true&delayms=6000" 
     frameborder="0" 
-    width="500" 
+    width="700" 
     allowfullscreen>
   </iframe>
 </div>
+
+<p align="center" style="font-size: 13px;>
+  Guest Speaker Presentation
+</p>
 
 
 </p>
