@@ -65,7 +65,6 @@ Additionally, I served as Secretary and Tresurer prior to my position as Preside
 
 
 # Japanese Community Outreach
-
 ### くらし応援ネットワーク 
 
 Guest Speaker at Kurashi Ouen Networking webinar, a Seattle-based nonprofit organization that equips Japanese-American families with knowledge and resources for university applications.
@@ -79,11 +78,8 @@ Guest Speaker at Kurashi Ouen Networking webinar, a Seattle-based nonprofit orga
   </iframe>
 </div>
 
-<p align="center" style="font-size: 13px;>
+<p align="center" style="font-size: 12px; color: gray; margin-top: 8px;">
   Guest Speaker Presentation
-</p>
-
-
 </p>
 
 <hr />
