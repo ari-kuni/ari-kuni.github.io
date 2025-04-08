@@ -73,10 +73,9 @@ Guest Speaker at Kurashi Ouen Networking webinar, a Seattle-based nonprofit orga
 
 <div align="center">
   <iframe 
-    src="https://docs.google.com/presentation/d/e/2PACX-1vT1YF-yMn5ztYQjcIEnABo0HtpcCd_2MZxTgKy8fixMEVNO20_c8ooYwuWhshdvQFounCoGRh8oC0lY/embed?start=true&loop=true&delayms=3000" 
+    src="https://docs.google.com/presentation/d/e/2PACX-1vT1YF-yMn5ztYQjcIEnABo0HtpcCd_2MZxTgKy8fixMEVNO20_c8ooYwuWhshdvQFounCoGRh8oC0lY/embed?start=true&loop=true&delayms=6000" 
     frameborder="0" 
-    width="960" 
-    height="569" 
+    width="500" 
     allowfullscreen>
   </iframe>
 </div>
