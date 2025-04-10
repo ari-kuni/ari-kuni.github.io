@@ -30,7 +30,8 @@ I'm a Bioengineering student at UC San Diego passionate about merging biology, e
 
 🌱 Interests:  
 - Medical Devices & Biotechnology
-- Mechanical Design  
+- Mechanical Design
+- Manufacturing  
 - Programming & Applications
 - Yapping about Patents
 - Biopharmacuticals
