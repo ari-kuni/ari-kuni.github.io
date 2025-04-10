@@ -18,8 +18,15 @@ Here are a few things I’ve been working on lately!
 ---
 
 ## 🗺️ Laser Cut Map of U.S. National Parks
-- Utalized CO2 laser cutters and modeled map in Inskape  
+- Utalized CO2 laser cutters and modeled map.  
 - 🔗 Coming Soon
+
+---
+
+## 🐰 Tuxedo Bunny Pendulum
+-  Design and fabricated a working escapement wheel and pendulum using Fusion 360 and shop tools like laser cutter.
+-  Models the core mechanical timekeeping mechanism used in traditional clocks with fine tuned oscillations.
+-  🔗 Coming Soon
 
 ---
 <hr />
