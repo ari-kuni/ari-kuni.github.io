@@ -17,21 +17,25 @@ Here are a few things I’ve been working on lately!
 
 ---
 
-## 🗺️ Laser Cut Map of U.S. National Parks
-- Utalized CO2 laser cutters and modeled map.  
-- 🔗 Coming Soon
-
----
-
 ## 🐰 Tuxedo Bunny Pendulum
 -  Design and fabricated a working escapement wheel and pendulum using Fusion 360 and shop tools like laser cutter.
 -  Models the core mechanical timekeeping mechanism used in traditional clocks with fine tuned oscillations.
 -  🔗 [YouTube Video to Clock](https://www.youtube.com/shorts/i_njGC-xke0)
--  📄 [Report & Analysis (Coming Soon!)]
 
 <embed src="docs/assets/[MAE3] Pendulum Report.pdf" width="100%" height="600px" type="application/pdf">
 
+---
 
+## 🤖 Ring Collecting Robot
+- Design, fabricate, and analyze the different components of the robot and participate in a competition to determine the best robot.
+- Utalize skills in hand sketching, CAD (AutoCAD & Fusion360), rapid prototyping, laser cutting, basic shop tools (drilling, tapping, reaming, press fits), machine design fundamentals (bearings, gear ratios, power transmission), and applying physics to analysis of machine design.
+- 🔗 Coming Soon
+
+- ---
+
+## 🗺️ Laser Cut Map of U.S. National Parks
+- Utalized CO2 laser cutters and modeled map.  
+- 🔗 Coming Soon
 
 ---
 <hr />
