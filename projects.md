@@ -29,6 +29,10 @@ Here are a few things I’ve been working on lately!
 -  🔗 [YouTube Video to Clock](https://www.youtube.com/shorts/i_njGC-xke0)
 -  📄 [Report & Analysis (Coming Soon!)]
 
+<embed src="docs/assets/[MAE3] Pendulum Report.pdf" width="100%" height="600px" type="application/pdf">
+
+
+
 ---
 <hr />
 
