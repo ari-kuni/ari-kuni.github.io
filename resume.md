@@ -10,6 +10,7 @@ layout: default
 - B.S. Bioengineering
 
 # Work History
+- Process Engineering Intern @ Kyocera International Semicondconductor Division (North America)
 - Systems Integration Intern @ Singular Genomics
 - Junior Figure Skating Coach @ San Diego Ice Arena
 
