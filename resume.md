@@ -46,6 +46,19 @@ layout: default
   </a>
 </p>
 
+<div style="margin-top: 40px;"></div>
+
+<!-- Centered heading text -->
+<p align="center" style="font-size: 18px; font-weight: bold; font-family: sans-serif;">
+  履歴書をご覧ください!
+</p>
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/1bjWXYy9JG8V7v2Aj0NrdFIiu4rC9SK82mvejk9hiLhU/edit?tab=t.0" target="_blank">
+    <img src="docs/assets/Screenshot 2025-03-28 at 11.42.14 AM.png" alt="Click to Visit" width="200" style="border-radius: 10px;" />
+  </a>
+</p>
+
 
 <hr />
 
