@@ -46,7 +46,6 @@ Below is an assignment for one of my Japanese classes. Please feel free to ignor
  
  これらの経験で培った論理的思考力と効率意識を掛け合わせ、将来的に貴社に入社した際、品質と生産効率の両立を実現することで、組織の成長に貢献したいと考えています。
 
-
  # エントリーシート
 
 ＊学生時代に頑張ったこと＊
