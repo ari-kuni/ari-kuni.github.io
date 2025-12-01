@@ -58,6 +58,17 @@ Below is an assignment for one of my Japanese classes. Please feel free to ignor
 　研究プロジェクトでは、初期設計の計算ミスによって測定データが正しく取得できないという失敗を経験しました。私はセンサーの配置を担当していましたが、解析の際に境界条件の設定を誤り、実験を進めても理論値と測定値がずれていました。その原因が分からず、実験自体が大幅に遅れる事態になりました。焦りを感じましたが、全体の設計と手順を見直すことにしました。細かい数値の再計算、装置の再組み立てチームにも状況を共有しながら可能性を潰していきました。その中で、境界条件の設定を誤っていたことが根本原因であると明確になり、設計を修正して実験をやり直しました。最終的には理論値に近い精度のデータを取得することができました。
 　この経験を通じて、問題に直面した際は早めに報告し、チーム全体で知識を共有しながら改善を進めることの大切さを強く実感しました。また、失敗を恐れず、原因を突き止めれば成長に変わるという姿勢を持つことで、プロジェクト全体の質が向上することも学びました。この経験は、今後どのような仕事でも活かせる大切な財産になっています。
 
+ # キャリアセミナーレポート
+<p align="center">
+  <a href="[https://docs.google.com/document/d/1us66SjzppwdeJQqZWLPG9DbBT4FSBsKUyjR3bm9orIE/edit?usp=sharing](https://docs.google.com/document/d/13Q1ZaozrKJrP52HOpcbQ8k0dJIU-BpoUOj8Rnc5jeqU/edit?tab=t.0)" target="_blank">
+    <img src="docs/assets/Screenshot 2025-03-28 at 11.42.14 AM.png" alt="Click to Visit" width="200" style="border-radius: 10px;" />
+  </a>
+</p>
+ <!-- Centered heading text -->
+<p align="center" style="font-size: 18px; font-weight: bold; font-family: sans-serif;">
+  キャリアセミナーレポート
+</p>
+
 <div style="margin-top: 40px;"></div>
 
 <!-- Centered heading text -->
