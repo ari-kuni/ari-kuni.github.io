@@ -1,0 +1,26 @@
+---
+title: 企画発表
+layout: default
+---
+
+#　
+
+<div style="display: flex; justify-content: center;">
+  <iframe 
+    src="https://docs.google.com/document/d/1a2uxmhmBYwwyqehpHLf9TUvy45wuDpBQEDlDrfPNttw/edit?usp=sharing”
+    frameborder="0" 
+    width="950" 
+    height="500"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <iframe 
+    src="https://docs.google.com/presentation/d/1XWOe7392W7BjvRISOy1ozojwFB0WOXsTRjo396lBkoE/edit?slide=id.p#slide=id.p”
+    frameborder="0" 
+    width="950" 
+    height="500"
+    allowfullscreen>
+  </iframe>
+</div>
