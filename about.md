@@ -5,7 +5,7 @@ layout: default
 
 # About Me
 
-### UC San Diego | Prior Systems Integration Intern | Biomedical Engineering Society
+### UC San Diego | Upcoming Patent Intern @ Pillsbury Law Firm | Prior Systems Integration & Process Engineering Intern
 
 <img align="right" src="docs/assets/IMG_20250104_175820_524.jpg" style="border-radius: 50%; width: 250px; height: 250px;" alt="My Image">
 
@@ -26,12 +26,13 @@ I also enjoy learning about intellectual property and read patents on my free ti
   - B.S. Bioengineering
  
 ## 💼 Work Experience
+- **Process Engineering Intern @ Kyocera Internation Inc.**
 - **Systems Integration Intern @ Singular Genomics**
 - **Figure Skating Junior Coach @ San Diego Ice Area**
 
 ## ⚙️ Skills
 - **Programming:** Python (+Jupytr Notebooks), MATLAB (+Simulink), C++
-- **CAD:** Fusion 360, SolidWorks
+- **CAD:** Fusion 360, AutoCAD
 - **Makerspace:** Arduino, 3D Printing, Laser Cutting, Resin Printing, Soldering
 - **Image Analysis:** ImageJ
 - Google Workplace & Microsoft 365 
@@ -46,15 +47,6 @@ I also enjoy learning about intellectual property and read patents on my free ti
 I've competed in several national competitions including 21' and 22' Synchronized Skating National Championships and 23' National Showcase. I also qulified to be apart of the 23-24 Team USA at the Junior level. I have certifications from the U.S. Figure Skating Association including Platinum Award for competition and test performance. 
 
 The descipline I recieved from the sport and the competition at high performance levels is a foundation to my life philosphy and provides me with confidence to always grow.
-
-<div style="display: flex; justify-content: center; gap: 40px;">
-
-  <img src="docs/assets/IMG_7862.jpg" alt="Skating 1" width="250" height="400" style="border-radius: 10px;">
-
-  <img src="docs/assets/IMG_7647.jpg" alt="Skating 2" width="300" height="400" style="border-radius: 10px;">
-
-</div>
-
 
 ## 🪈 Flute 
 
@@ -74,9 +66,6 @@ I also organized a summer program for 3rd graders to improve their math skills d
 いつでも気軽にご連絡くださいね！ Feel free to reach out to me anytime!
 
 ---
-
-
-🧠 Fun Fact: I chronically struggled to find pictures to put for my personal life, so I'll make it aspiration by saying ✨ I live in the moment ✨
 
 
 
