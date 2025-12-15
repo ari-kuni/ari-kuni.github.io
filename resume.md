@@ -45,7 +45,7 @@ layout: default
 </p>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1bjWXYy9JG8V7v2Aj0NrdFIiu4rC9SK82mvejk9hiLhU/edit?tab=t.0" target="_blank">
+  <a href="(https://docs.google.com/document/d/1cNS6_RyRwa6OWcpPToTf2akGlGU-B4HYyWDz-gKj-RQ/edit?tab=t.0)" target="_blank">
     <img src="docs/assets/Screenshot 2025-03-28 at 11.42.14 AM.png" alt="Click to Visit" width="200" style="border-radius: 10px;" />
   </a>
 </p>
