@@ -31,11 +31,6 @@ Here are a few things I’ve been working on lately!
 - Utalize skills in hand sketching, CAD (AutoCAD & Fusion360), rapid prototyping, laser cutting, basic shop tools (drilling, tapping, reaming, press fits), machine design fundamentals (bearings, gear ratios, power transmission), and applying physics to analysis of machine design.
 - 🔗 Coming Soon
 
-- ---
-
-## 🗺️ Laser Cut Map of U.S. National Parks
-- Utalized CO2 laser cutters and modeled map.  
-- 🔗 Coming Soon
 
 ---
 <hr />
