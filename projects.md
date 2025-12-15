@@ -36,9 +36,8 @@ Here are a few things I’ve been working on lately!
 -  Design and fabricated a working escapement wheel and pendulum using Fusion 360 and shop tools like laser cutter.
 -  Models the core mechanical timekeeping mechanism used in traditional clocks with fine tuned oscillations.
 -  🔗 [YouTube Video to Clock](https://www.youtube.com/shorts/i_njGC-xke0)
-
-<embed src="docs/assets/[MAE3] Pendulum Report.pdf" width="100%" height="600px" type="application/pdf">
-
+-  🔗 [Report](https://docs.google.com/document/d/1TM5r5Td0reU9FAqrg_36uUZJCjK9xX5aCGX3irvkR5o/edit?usp=sharing)
+  
 ---
 <hr />
 
